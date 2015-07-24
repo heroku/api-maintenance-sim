@@ -1,0 +1,1 @@
+run lambda { |env| [503, {"Content-Type"=>"application/json"}, StringIO.new(%q{{ "id": "maintenance", "message": "Heroku API is temporarily unavailable.\nFor more information, visit: https://status.heroku.com" }})] }
