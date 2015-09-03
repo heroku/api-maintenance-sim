@@ -1,0 +1,8 @@
+{
+	"name": "Heroku API Maintenance Sim",
+	"description": "Service that pretends to be the Heroku Platform API in maintenance, to simulate what your services do when they can't use the API",
+	"keywords": ["reliability", "testing", "tool"],
+	"website": "https://github.com/heroku/api-maintenance-sim",
+	"repository": "https://github.com/heroku/api-maintenance-sim",
+	"logo": "https://d3k90kvix375hb.cloudfront.net/assets/home/feature-support-c09ab903778a34960bb5718ca4914a41.png"
+}
